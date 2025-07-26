@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hello Github Travellers...
 
 I'm an engineering student passionate about applying technical knowledge to real-world problems.  
 I enjoy exploring embedded systems, software development, and practical engineering challenges.
