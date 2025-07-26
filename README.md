@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Hi there!
+
+I'm an engineering student passionate about applying technical knowledge to real-world problems.  
+I enjoy exploring embedded systems, software development, and practical engineering challenges.
+
+- 🎓 Engineering student  
+- 💻 Focused on hands-on projects and continuous learning  
+- ⚙️ Interested in technology, systems, and innovation
+I study in ece at NTUA
+
+Thanks for visiting my GitHub!
+On left there are links to other socials of mine!
+
 
 <!--
 **nikosanag/nikosanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
