@@ -8,8 +8,8 @@ I enjoy exploring embedded systems, software development, and practical engineer
 - ⚙️ Interested in technology, systems, and innovation
 I study in ece at NTUA
 
-Thanks for visiting my GitHub!
-On left there are links to other socials of mine!
+Thanks for visiting my secondary GitHub!
+My primary is listed on left as a link.
 
 
 <!--
