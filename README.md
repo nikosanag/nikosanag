@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./card-black.svg" alt="Nikolaos Anagnostou: ASCII portrait and whoami.json" width="100%">
+  <img src="./card-dots-v1.svg" alt="Nikolaos Anagnostou: ASCII portrait and whoami.json" width="100%">
 </p>
 
 <p align="center">
