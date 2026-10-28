@@ -1,55 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-label="Nikolaos Anagnostou - terminal profile card">
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
-.a{font-size:11.9px;fill:#e62b1e}
+.a{font-size:11.9px;fill:#ff3b2f}
 .j{font-size:14px}
-.key{fill:#e62b1e}.str{fill:#1f1f1f}.pun{fill:#9a9a9a}.num{fill:#e62b1e}
+.key{fill:#ff3b2f}.str{fill:#f2f2f2}.pun{fill:#8c8c8c}.num{fill:#ff3b2f}
 .cur{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
 .scan{animation:fade 1.6s ease-out both}@keyframes fade{from{opacity:0}to{opacity:1}}
 </style>
-<rect x="0.5" y="0.5" width="999" height="639" rx="12" fill="#ffffff" stroke="#e62b1e"/>
+<rect x="0.5" y="0.5" width="999" height="639" rx="12" fill="#0b0b0b" stroke="#e62b1e"/>
 <path d="M0.5 36 V12.5 a12 12 0 0 1 12 -12 H987.5 a12 12 0 0 1 12 12 V36 Z" fill="#e62b1e"/>
 <line x1="0.5" y1="36" x2="999.5" y2="36" stroke="#e62b1e"/>
 <circle cx="22" cy="18" r="6" fill="#ffffff"/>
 <circle cx="42" cy="18" r="6" fill="#ffffffb3"/>
 <circle cx="62" cy="18" r="6" fill="#ffffff66"/>
 <text x="500.0" y="23" text-anchor="middle" class="m" font-size="13" fill="#ffffff">nikos@athens: ~/profile</text>
-<text x="28" y="66" class="m j"><tspan fill="#e62b1e">nikos@athens</tspan><tspan fill="#9a9a9a">:</tspan><tspan fill="#e62b1e">~</tspan><tspan fill="#9a9a9a">$ </tspan><tspan fill="#1f1f1f">cat whoami.json | ascii --face</tspan></text>
+<text x="28" y="66" class="m j"><tspan fill="#ff3b2f">nikos@athens</tspan><tspan fill="#8c8c8c">:</tspan><tspan fill="#ff3b2f">~</tspan><tspan fill="#8c8c8c">$ </tspan><tspan fill="#f2f2f2">cat whoami.json | ascii --face</tspan></text>
 <g class="scan">
 <text x="26" y="104.0" class="m a" xml:space="preserve"></text>
 <text x="26" y="118.3" class="m a" xml:space="preserve"></text>
-<text x="26" y="132.6" class="m a" xml:space="preserve">                      ;i;::,,,</text>
-<text x="26" y="146.9" class="m a" xml:space="preserve">                  :XhG9&amp;@&amp;9SS5A;</text>
-<text x="26" y="161.2" class="m a" xml:space="preserve">              ,s3H#9999#GSBSS9Hh;</text>
-<text x="26" y="175.5" class="m a" xml:space="preserve">             shHH9&amp;SMGM###SS9##SH3.</text>
-<text x="26" y="189.8" class="m a" xml:space="preserve">            AHhMS@SMSB##SHMh322GB&amp;5.</text>
-<text x="26" y="204.1" class="m a" xml:space="preserve">           X#HH#BBMGSH5r:,,,,.,:XM9A</text>
-<text x="26" y="218.4" class="m a" xml:space="preserve">           XG#9&amp;#5Xr;:,,.........;3#i</text>
-<text x="26" y="232.7" class="m a" xml:space="preserve">           ,MH#SH552;::,,........:shM.</text>
-<text x="26" y="247.0" class="m a" xml:space="preserve">           ;HA;iiisi:::,,,,,......rA3s</text>
-<text x="26" y="261.3" class="m a" xml:space="preserve">           sM3s;:,...........,:;;:.i22.</text>
-<text x="26" y="275.6" class="m a" xml:space="preserve">           iMhs:s3hh3X;:,:rX33Asrr:.sh;</text>
-<text x="26" y="289.9" class="m a" xml:space="preserve">           ,H3;XGMhhMHSh:.:r25Msri,.;3i.</text>
-<text x="26" y="304.2" class="m a" xml:space="preserve">            23;AHMhGAsSH;..,irX;:,..,i.,</text>
-<text x="26" y="318.5" class="m a" xml:space="preserve">           .s5;irsssssAr,...........,;:</text>
-<text x="26" y="332.8" class="m a" xml:space="preserve">           .Xsi;:,,,:sA5h;;s.........i:.</text>
-<text x="26" y="347.1" class="m a" xml:space="preserve">           ,A3siri;::rAMHXXr;.......,r:</text>
-<text x="26" y="361.4" class="m a" xml:space="preserve">           .XAAsAAsA3h33AXs;irssi,.,;r:.</text>
-<text x="26" y="375.7" class="m a" xml:space="preserve">            .iA223AhMGHh5Xri;;::r:::;r.</text>
-<text x="26" y="390.0" class="m a" xml:space="preserve">              ,:2hh322sssri;,..,ri;:ri</text>
-<text x="26" y="404.3" class="m a" xml:space="preserve">                ;5MHGMs:,,.....;rriss</text>
-<text x="26" y="418.6" class="m a" xml:space="preserve">                 .hGGGHh2rs2srsXA22s,</text>
-<text x="26" y="432.9" class="m a" xml:space="preserve">               ;rrr3SB@@@B9&amp;&amp;9#HhA;    r,</text>
-<text x="26" y="447.2" class="m a" xml:space="preserve">          :2G9&amp;@@@Xi5MS9&amp;@BGh3As;      ;SHM2Xi</text>
-<text x="26" y="461.5" class="m a" xml:space="preserve">      ;s5GB@@@@@@@3;A53hGSMX;:,,       A@&amp;@@@@&amp;9G2;</text>
-<text x="26" y="475.8" class="m a" xml:space="preserve">  s3H#BBB9&amp;@@@@@@@@hXXA2335X;,       .2@@&amp;BB&amp;&amp;&amp;@@@&amp;3i</text>
-<text x="26" y="490.1" class="m a" xml:space="preserve">3SB@@&amp;&amp;B9&amp;@@@@@@@@@@9h2XAAsr:.      XS@@&amp;BB&amp;&amp;&amp;&amp;B&amp;@@@BS</text>
-<text x="26" y="504.4" class="m a" xml:space="preserve">&amp;B&amp;@@B&amp;&amp;@@@@@@@@@@@@@@@B9#SHMhhhMG#&amp;@@&amp;&amp;&amp;B&amp;@&amp;B&amp;&amp;&amp;@@@&amp;&amp;</text>
-<text x="26" y="518.7" class="m a" xml:space="preserve">&amp;@@@@&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;BBB&amp;&amp;B&amp;&amp;@B&amp;&amp;&amp;@@@@B</text>
-<text x="26" y="533.0" class="m a" xml:space="preserve">&amp;&amp;&amp;@@&amp;&amp;&amp;@@@@@&amp;@@@&amp;@@@@@@@@&amp;&amp;&amp;&amp;&amp;BBB&amp;B&amp;&amp;&amp;&amp;B&amp;&amp;B@BBB&amp;@@@@&amp;</text>
-<text x="26" y="547.3" class="m a" xml:space="preserve">@@@@@&amp;&amp;&amp;@@@&amp;&amp;&amp;&amp;@@&amp;&amp;&amp;BB&amp;@@@&amp;BBB&amp;&amp;@&amp;&amp;&amp;&amp;BBBB&amp;B9&amp;B9B@@&amp;@@B</text>
-<text x="26" y="561.6" class="m a" xml:space="preserve">@@@@@@&amp;&amp;@@&amp;BBBBB@@&amp;BBBB@@@@&amp;&amp;&amp;@&amp;&amp;B&amp;&amp;&amp;BBB&amp;@99BB9B@&amp;&amp;@@&amp;</text>
-<text x="26" y="575.9" class="m a" xml:space="preserve">&amp;@@@@@B&amp;@@BBBBBB&amp;@&amp;BBBB&amp;@@@&amp;&amp;@&amp;&amp;BBB&amp;&amp;&amp;BB@&amp;99BBB&amp;@B@@&amp;@</text>
+<text x="26" y="132.6" class="m a" xml:space="preserve">                      GHGS##99</text>
+<text x="26" y="146.9" class="m a" xml:space="preserve">                  #5r:.....,:X2G</text>
+<text x="26" y="161.2" class="m a" xml:space="preserve">              93s;.....,::.:,.:rG</text>
+<text x="26" y="175.5" class="m a" xml:space="preserve">             hi::..;i:i,:,::...:;sB</text>
+<text x="26" y="189.8" class="m a" xml:space="preserve">            2:ii:.:i:.,.:irrrAX:..XB</text>
+<text x="26" y="204.1" class="m a" xml:space="preserve">           5.;;...i:,;XhS####9#S5i.5</text>
+<text x="26" y="218.4" class="m a" xml:space="preserve">           5,....s2hGGS#BBBB&amp;&amp;BBBGs.H</text>
+<text x="26" y="232.7" class="m a" xml:space="preserve">           #;;,:;XXAHSS#99BBBBBBBS5r;B</text>
+<text x="26" y="247.0" class="m a" xml:space="preserve">           G:2HHMMhHSS#99#99B&amp;&amp;&amp;&amp;9MArh</text>
+<text x="26" y="261.3" class="m a" xml:space="preserve">           h;r3GS##9999BBB9BB9SGGS9HAXB</text>
+<text x="26" y="275.6" class="m a" xml:space="preserve">           H;i3G3Xsss5HS##M5ssA3MMS95iG</text>
+<text x="26" y="289.9" class="m a" xml:space="preserve">           #:rG2,isri:,rGB#hXXr3hM#BGrHB</text>
+<text x="26" y="304.2" class="m a" xml:space="preserve">            ArGA:;i;53,:G&amp;&amp;9Hh3GS#&amp;&amp;9HB#</text>
+<text x="26" y="318.5" class="m a" xml:space="preserve">           &amp;hsHMh333332h#&amp;&amp;@@BBBB@&amp;B9G#</text>
+<text x="26" y="332.8" class="m a" xml:space="preserve">           B23HGG#9#S3AAsGShB@&amp;&amp;&amp;@&amp;BBHSB</text>
+<text x="26" y="347.1" class="m a" xml:space="preserve">           9AshMhHHSGhA;;23MGBBB&amp;&amp;&amp;B#hS</text>
+<text x="26" y="361.4" class="m a" xml:space="preserve">           @5A232232srrrA53GMM35H#B#GhS&amp;</text>
+<text x="26" y="375.7" class="m a" xml:space="preserve">            &amp;HAXXrAr;,;is5hHGGSSh#SSGM@</text>
+<text x="26" y="390.0" class="m a" xml:space="preserve">              ##XiirXA533MMG9@@9hMGShH</text>
+<text x="26" y="404.3" class="m a" xml:space="preserve">                Ss;::;3G##9BB&amp;9GhhM33</text>
+<text x="26" y="418.6" class="m a" xml:space="preserve">                 Br,,,:iXh3A3hh5AAAh9</text>
+<text x="26" y="432.9" class="m a" xml:space="preserve">               #GGMr,..........;r2G    H9</text>
+<text x="26" y="447.2" class="m a" xml:space="preserve">          #5r:....3hs;,....,rs23G      G,;s23G</text>
+<text x="26" y="461.5" class="m a" xml:space="preserve">      GhX;........sH2sr;,.;2HS#9       5.......,i2#</text>
+<text x="26" y="475.8" class="m a" xml:space="preserve">  hX;..............s252Xrrs5G#       B5............XG</text>
+<text x="26" y="490.1" class="m a" xml:space="preserve">s,...................iA22A5hG9      h;...............:</text>
+<text x="26" y="504.4" class="m a" xml:space="preserve">........................,:;isXAXsi:...................</text>
+<text x="26" y="518.7" class="m a" xml:space="preserve">......................................................</text>
+<text x="26" y="533.0" class="m a" xml:space="preserve">......................................................</text>
+<text x="26" y="547.3" class="m a" xml:space="preserve">......................................................</text>
+<text x="26" y="561.6" class="m a" xml:space="preserve">......................................................</text>
+<text x="26" y="575.9" class="m a" xml:space="preserve">......................................................</text>
 </g>
 <text x="444" y="104" class="m j" xml:space="preserve"><tspan class="pun">{</tspan></text>
 <text x="444" y="125" class="m j" xml:space="preserve"><tspan class="pun">  </tspan><tspan class="key">&quot;name&quot;</tspan><tspan class="pun">: </tspan><tspan class="str">&quot;Nikolaos Anagnostou&quot;</tspan><tspan class="pun">,</tspan></text>
@@ -72,6 +72,6 @@
 <text x="444" y="482" class="m j" xml:space="preserve"><tspan class="pun">    </tspan><tspan class="key">&quot;leetcode&quot;</tspan><tspan class="pun">: </tspan><tspan class="str">&quot;u/nickthedev2003&quot;</tspan></text>
 <text x="444" y="503" class="m j" xml:space="preserve"><tspan class="pun">  </tspan><tspan class="pun">}</tspan></text>
 <text x="444" y="524" class="m j" xml:space="preserve"><tspan class="pun">}</tspan></text>
-<text x="444" y="563" class="m j"><tspan fill="#e62b1e">nikos@athens</tspan><tspan fill="#9a9a9a">:</tspan><tspan fill="#e62b1e">~</tspan><tspan fill="#9a9a9a">$ </tspan></text>
-<rect class="cur" x="570" y="549" width="9" height="17" fill="#1f1f1f"/>
+<text x="444" y="563" class="m j"><tspan fill="#ff3b2f">nikos@athens</tspan><tspan fill="#8c8c8c">:</tspan><tspan fill="#ff3b2f">~</tspan><tspan fill="#8c8c8c">$ </tspan></text>
+<rect class="cur" x="570" y="549" width="9" height="17" fill="#f2f2f2"/>
 </svg>
